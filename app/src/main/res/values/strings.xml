@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">艾瑞智控</string>
+    <string name="title_group">灯组</string>
+    <string name="title_map">地图</string>
+    <string name="title_task">任务</string>
+    <string name="title_mine">我的</string>
+</resources>
